@@ -1,5 +1,6 @@
 # hello_ds
 Practicing DS workflow
+
 Refer to the orientation video for a step-by-step process, but as a reminder...
 1) Fork this repo
 2) Open the notebook in colaboratory using the 'View in Colaboratory' link at the top of the notebook
